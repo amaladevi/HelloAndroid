@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_label">Click Me!</string>
+    <string name="counter_label">Click counter = </string>
+    <string name="input_hint">Type something</string>
+    <string name="second_hint">This is the first EditText</string>
+    <string name="first_hint">This is the first EditText</string>
+    <string name="first_label">This is a label!</string>
+    <string name="second_label">This is another label!</string>
+
+</resources>
